@@ -1,7 +1,7 @@
 -----
 
 <p align="center">
-<img src="https://i.postimg.cc/htzBfr02/92902811.jpg", width="500", height="500">
+<img src="https://i.postimg.cc/htzBfr02/92902811.jpg", width="400", height="400">
 </p>
 
 -----
@@ -17,7 +17,7 @@ SimpleSploit is a now open source executer designed for windows!
 <br>
 <br><br><br>
 </strong>
-<img src="https://cdn.discordapp.com/attachments/952421380819935276/958127658204536872/SSploit.png" width="500", height="400">
+<img src="https://cdn.discordapp.com/attachments/952421380819935276/958127658204536872/SSploit.png" width="600", height="400">
 </p>
 <br>
 
