@@ -13,40 +13,26 @@
 <strong>
 Open source, free, keyless
 <br><br>
-It will flood the victim's router with UDP packets, so even if there are no ports opened,
+SimpleSploit is a now open source executer designed for windows!
 <br>
-the router will still be overwhelmed and slowed down.
-<br><br>
-Brute allows you to DoS Fivem, Minecraft, or even normal servers.
-<br>
-But it can also down a simple family network.
 <br><br><br>
 </strong>
-<img src="https://cdn.discordapp.com/attachments/940036299941904405/994447869736128573/zyro-image_7.png](https://cdn.discordapp.com/attachments/952421380819935276/958127658204536872/SSploit.png" width="500", height="400">
+<img src="https://cdn.discordapp.com/attachments/952421380819935276/958127658204536872/SSploit.png" width="500", height="400">
 </p>
 <br>
-
------
-
-### <p align="center">📀 Dependencies 📀</p>
-
-<p align="center"><strong><i>In order for the program to work, you have to install these ressources:</i></strong</p>
-
-<br><br>
-* <a href="https://www.python.org/ftp/python/3.9.13/python-3.9.13-amd64.exe">Python3</a>
-* `pip install -U -r requirements.txt`
-<br><br>
 
 -----
 
 ### <p align="center">⭐ Features ⭐</p>
 
 <br><br>
-<strong>+ The only limit... is you! The faster your connection is, the more powerful will be the attack</strong>
+<strong>+ Script Hub</strong>
 <br>
-<strong>+ Show informations about the attack in real time</strong>
+<strong>+ Script List</strong>
 <br>
-<strong>+ Can down servers but also family networks</strong>
+<strong>+ Keyless</strong>
+<br>
+<strong>+ Kill Roblox</strong>
 <br>
 
 <p align="right">
@@ -54,7 +40,7 @@ But it can also down a simple family network.
 </p>
 
 <br>
-<strong>- Only works on networks without a firewall (but who uses firewalls anyways 😂)</strong>
+<strong>- Only works on windows</strong>
 <br><br>
 
 -----
@@ -65,19 +51,19 @@ But it can also down a simple family network.
 <p align="center"><strong><i>⚪🟢🔵🔴🟣⚫</i></strong</p>
 
 <br><br>
-* Time: 🔵
-* Complexity: 🔵
-* Service: ⚫
+* Functionality: 🔵
+* Complexity: 🔴
+* Userfriendly: 🔵
 <br><br>
 
 -----
 
 ### <p align="center">💡 Ideas 💡</p>
 
-<p align="center"><strong><i>Feel free to make a pull request on this repository to submit any idea!</i></strong</p>
+<p align="center"><strong><i></i></strong</p>
 
 <br><br>
-* Add a L7 option
+* Update the UI with a more modern but simple feel
 <br><br>
 
 -----
@@ -85,10 +71,10 @@ But it can also down a simple family network.
 ### <p align="center">📌 Disclaimer 📌</p>
 
 <br><br>
-* ***Please use this program only for educational purposes.***
-* ***It is not meant to be used in any malicious way, and I decline any responsibility for what you do with it.***
+* ***Please do NOT attempt sell the source or sell the executer***
+* ***I am not resposnible for any bans on Roblox using this executer as exploiting is against Roblox ToS***
 <br><br>
 
 -----
 
-### <p align="center">billythegoat356</p>
+### <p align="center">Meme.rip#6927</p>
